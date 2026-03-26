@@ -54,8 +54,8 @@ Escreva um programa Python que exiba na tela as seguintes cinco linhas:
 3. Suco
 *** Bom apetite! ***
 ```
-
-**Arquivo resposta**: `questao03.py`
+questao03.py`
+**Arquivo resposta**: `
 
 ---
 
@@ -121,11 +121,11 @@ Escreva um programa Python que leia **4 números reais** e exiba a média aritm�
 
 Exemplo de entrada:
 ```
-10.0
-6.0
-8.0
-4.0
-```
+
+10
+6
+81
+4
 
 Exemplo de saída:
 ```
